@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Baseball Through the Years",
+    "section": "",
+    "text": "Explore Major League Baseball history through the Lahman database. Home runs per team-game have risen markedly since the early seasons, topping one per game in the late 1990s and staying comparatively high in recent decades.\nThe career leaderboard puts Barry Bonds first with 762 home runs, followed by Hank Aaron and Babe Ruth. Visit the analysis pages in the navbar to explore the season-by-season trend and the all-time sluggers, including Bonds’ yearly totals."
+  },
+  {
+    "objectID": "sluggers.html#barry-bonds-by-season",
+    "href": "sluggers.html#barry-bonds-by-season",
+    "title": "Sluggers",
+    "section": "Barry Bonds by season",
+    "text": "Barry Bonds by season"
+  },
+  {
+    "objectID": "home-runs.html#season-comparison",
+    "href": "home-runs.html#season-comparison",
+    "title": "Home runs",
+    "section": "Season comparison",
+    "text": "Season comparison\n\n\n\n\n\nSeason\nTotal home runs\nTotal team-games\nHome runs per game\n\n\n\n\n1981\n1781\n2788\n0.639\n\n\n1994\n3306\n3200\n1.033\n\n\n2019\n6776\n4858\n1.395\n\n\n2020\n2304\n1796\n1.283"
+  }
+]
