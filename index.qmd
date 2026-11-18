@@ -2,4 +2,6 @@
 title: "Baseball Through the Years"
 ---
 
-Explore the history of Major League Baseball through its data, using the Lahman database. Discover how the game and its players have changed over time.
+Explore Major League Baseball history through the Lahman database. Home runs per team-game have risen markedly since the early seasons, topping one per game in the late 1990s and staying comparatively high in recent decades.
+
+The career leaderboard puts Barry Bonds first with 762 home runs, followed by Hank Aaron and Babe Ruth. Visit the analysis pages in the navbar to explore the season-by-season trend and the all-time sluggers, including Bonds' yearly totals.
