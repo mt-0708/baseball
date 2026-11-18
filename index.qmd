@@ -1,7 +1,5 @@
 ---
-title: "Baseball"
+title: "Baseball Through the Years"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Explore the history of Major League Baseball through its data, using the Lahman database. Discover how the game and its players have changed over time.
